@@ -1,0 +1,26 @@
+{
+  "name": "react-hot-loader-sample1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Masayuki Yoshida",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "babel-runtime": "^6.22.0",
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "react-hot-loader": "^1.3.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-middleware": "^1.9.0",
+    "webpack-hot-middleware": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}

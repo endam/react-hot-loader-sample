@@ -1,0 +1,26 @@
+input {
+    padding: 4px;
+    font-size: 14px;
+    border:1px solid #333;
+    border-radius:2px;
+}
+p {
+    font-size: 16px;
+    margin:0;
+}
+
+h1,h2 {
+    margin: 10px 0;
+}
+
+div {
+    padding: 0;
+}
+body {
+    font-size: 16px;
+}
+#app2, #app1 {
+    border: 1px solid #61380B;
+    padding: 8px;
+    margin-top:8px;
+}
